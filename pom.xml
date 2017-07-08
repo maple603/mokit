@@ -6,7 +6,14 @@
 	<groupId>com.maple</groupId>
 	<artifactId>mokit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <modules>
+        <module>mokit-client</module>
+        <module>mokit-common</module>
+        <module>mokit-start</module>
+        <module>mokit-service</module>
+        <module>mokit-test</module>
+    </modules>
+    <packaging>pom</packaging>
 
 	<name>mokit</name>
 	<description>Demo project for Spring Boot</description>

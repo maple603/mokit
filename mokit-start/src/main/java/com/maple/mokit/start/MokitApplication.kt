@@ -1,4 +1,4 @@
-package com.maple.mokit
+package com.maple.mokit.start
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
